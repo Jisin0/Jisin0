@@ -23,5 +23,5 @@
 <a href="https://github.com/MrPurple902/tgbot"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=MrPurple902&repo=tgbot&theme=vision-friendly-dark"></a>
 </p>
 <p align="center">
-<a href="https://github.com/MrPurple902"><img title="MrPurple902" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPurple902&layout=compact"></a>
+<a href="https://github.com/MrPurple902"><img title="MrPurple902" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPurple902&layout=compact&theme=vision-friendly-dark"></a>
 </p>

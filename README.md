@@ -4,7 +4,7 @@
 
 ### KNOW SOMETHING ABOUT ME >>>>
 
-<p><img aling="center"src="https://media.tenor.com/images/57ad40aee94c2f0919736b3c83171781/tenor.gif"/></p>
+<p><img aling="center"src="https://media1.tenor.com/images/3eba0dcd63f77db5f5720681b09b5b9f/tenor.gif?itemid=16164963"/></p>
 
 <p align="center"><a href="https://github.com/MrPurple902"><img title="Mr Purple902" src="https://user-images.githubusercontent.com/79639422/119218003-8e2fff80-bafb-11eb-981d-d039cbde1b9e.gif"></a>
 </p>

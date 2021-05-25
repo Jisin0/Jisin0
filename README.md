@@ -1,7 +1,7 @@
 ## Its me MrPurple guyzz😎😋
 <p align="center"><img src="https://user-images.githubusercontent.com/79639422/119483394-8c23a600-bd72-11eb-998c-1421b2308a8e.gif">
 
-<p><a href="https://img.shields.io/badge/PODA-MYRE-purple"><img aling="center"src="https://user-images.githubusercontent.com/79639422/119460871-bff3d100-bd5c-11eb-931c-5e6cbe21d1d3.gif"/></p>
+<p><a href="https://img.shields.io/badge/PODA-MYRE-purple"><img aling="center"src="https://user-images.githubusercontent.com/79639422/119483588-c0976200-bd72-11eb-8ca2-f290e732fa35.gif"/></p>
 
 ### KNOW SOMETHING ABOUT ME >>>>
 

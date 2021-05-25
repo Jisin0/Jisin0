@@ -1,5 +1,5 @@
 ## Its me MrPurple guyzz😎😋
-<p align="center"><img src="https://i.imgur.com/f6e28oF.gifv" alt="Bt">
+<p align="center"><img src="https://i.imgur.com/f6e28oF.gifv">
 
 <p><img aling="center"src="https://media1.tenor.com/images/3eba0dcd63f77db5f5720681b09b5b9f/tenor.gif?itemid=16164963"/></p>
 

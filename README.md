@@ -1,5 +1,5 @@
 ## Its me MrPurple guyzz😎😋
-<p align="center"><img src="https://user-images.githubusercontent.com/79639422/119217708-8c653c80-baf9-11eb-81eb-1589e4cda1f4.gif" alt="Bt">
+<p align="center"><img src="https://i.imgur.com/f6e28oF.gifv" alt="Bt">
 
 <p><img aling="center"src="https://media1.tenor.com/images/3eba0dcd63f77db5f5720681b09b5b9f/tenor.gif?itemid=16164963"/></p>
 

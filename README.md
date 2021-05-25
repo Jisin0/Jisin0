@@ -5,7 +5,7 @@
 
 ### KNOW SOMETHING ABOUT ME >>>>
 
-<p align="center"><a href="https://github.com/MrPurple902"><img title="Mr Purple902" src="https://user-images.githubusercontent.com/79639422/119218003-8e2fff80-bafb-11eb-981d-d039cbde1b9e.gif"></a>
+<p align="center"><a href="https://github.com/MrPurple902"><img title="Mr Purple902" src="https://user-images.githubusercontent.com/79639422/119449189-f414c500-bd4f-11eb-93d8-75dab3ba3f81.gif"></a>
 </p>
 
 |- I call myself [Mr Purple](https://github.com/MrPurple902) 😁

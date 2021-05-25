@@ -5,7 +5,7 @@
 
 ### KNOW SOMETHING ABOUT ME >>>>
 
-<p align="center"><a href="https://github.com/MrPurple902"><img title="Mr Purple902" src="https://user-images.githubusercontent.com/79639422/119449189-f414c500-bd4f-11eb-93d8-75dab3ba3f81.gif"></a>
+<p align="center"><a href="https://github.com/MrPurple902"><img title="Mr Purple902" src="https://user-images.githubusercontent.com/79639422/119483808-fccac280-bd72-11eb-805b-2ce82bb1289a.gif"></a>
 </p>
 
 |- I call myself [Mr Purple](https://github.com/MrPurple902) 😁
@@ -24,6 +24,16 @@
   
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
+### FIND ME ON SOCIAL MEDIA >>>>
+
+<p align="center">
+<a href="https://www.github.com/MrPurple902"><img title="YouTube" src="https://img.shields.io/badge/MrPurple-902-purple?style=for-the-badge&logo=github"></a>
+<a href="https://www.youtube.com/channel/UC4HTsk_D_42aoVRfkifTCkA"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MrPurple-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://chat.whatsapp.com/FsGXNXYu5nyHaW8BljPkRa"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-green?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://www.instagram.com/mrpurple902"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram"></a>
+<a href="https://t.me/joinchat/lpAtnUTMvFswOGZl"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
+</p>
+
 ### CHECK OUT MY WORK HERE>>>>
 <p align="center"><a href="https://github.com/MrPurple902"><img title="Mr Purple902" src="https://github-readme-stats.vercel.app/api?username=MrPurple902&show_icons=true&include_all_commits=true&theme=nightowl&cache_seconds=3200"></a>
 </p>
@@ -38,12 +48,3 @@
 <a href="https://github.com/MrPurple902"><img title="MrPurple902" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPurple902&layout=compact&theme=nightowl"></a>
 </p>
 
-### FIND ME ON SOCIAL MEDIA >>>>
-
-<p align="center">
-<a href="https://www.github.com/MrPurple902"><img title="YouTube" src="https://img.shields.io/badge/MrPurple-902-purple?style=for-the-badge&logo=github"></a>
-<a href="https://www.youtube.com/channel/UC4HTsk_D_42aoVRfkifTCkA"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MrPurple-red?style=for-the-badge&logo=Youtube"></a>
-<a href="https://chat.whatsapp.com/FsGXNXYu5nyHaW8BljPkRa"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-green?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://www.instagram.com/mrpurple902"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram"></a>
-<a href="https://t.me/joinchat/lpAtnUTMvFswOGZl"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
-</p>

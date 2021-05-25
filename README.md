@@ -30,7 +30,7 @@
 <a href="https://www.github.com/MrPurple902"><img title="YouTube" src="https://img.shields.io/badge/MrPurple-902-purple?style=for-the-badge&logo=github"></a>
 <a href="https://www.youtube.com/channel/UC4HTsk_D_42aoVRfkifTCkA"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MrPurple-red?style=for-the-badge&logo=Youtube"></a>
 <a href="https://chat.whatsapp.com/FsGXNXYu5nyHaW8BljPkRa"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-green?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://www.instagram.com/mrpurple902"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.instagram.com/mr.purple902"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram"></a>
 <a href="https://t.me/joinchat/lpAtnUTMvFswOGZl"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
 </p>
 

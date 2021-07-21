@@ -4,7 +4,7 @@
    <ahref="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-markdown.svg" width ="250"></a>
   </p>
-<p align="left"> <a href="https://github.com/annihilatorrrr"><img src="https://github-profile-trophy.vercel.app/?username=MrPurple902&theme=nightowl-bg=true&no-frame=true&column=4&" alt="annihilatorrrr" /></a> </p>
+<p align="left"> <a href="https://github.com/MrPurple902"><img src="https://github-profile-trophy.vercel.app/?username=MrPurple902&theme=nightowl&no-frame=true&column=4&" alt="MrPurple902" /></a> </p>
 
 ### KNOW SOMETHING ABOUT ME >>>>
 

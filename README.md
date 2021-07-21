@@ -48,6 +48,7 @@
 <p align="center">
 <a href="https://github.com/MrPurple902/WhatsAsenaDuplicated"><img title="WhatsAsena" src="https://github-readme-stats.vercel.app/api/pin/?username=MrPurple902&repo=WhatsAsenaDuplicated&theme=nightowl"></a>
 <a href="https://github.com/MrPurple902/tgbot"><img title="TGbot" src="https://github-readme-stats.vercel.app/api/pin/?username=MrPurple902&repo=tgbot&theme=nightowl"></a>
+<a href="https://github.com/MrPurple902/Frwdit"><img title="FRWDIT" src="https://github-readme-stats.vercel.app/api/pin/?username=MrPurple902&repo=Frwdit&theme=nightowl"></a>
 </p>
 <p align="center">
 <a href="https://github.com/MrPurple902"><img title="MrPurple902" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPurple902&layout=compact&theme=nightowl"></a>

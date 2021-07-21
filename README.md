@@ -1,12 +1,10 @@
-## Its me MrPurple guyzz😎😋
+# Its me MrPurple guyzz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <p align="center">
    <ahref="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-markdown.svg" width ="250"></a>
   </p>
-<p align="center"><img src="https://user-images.githubusercontent.com/79639422/119483394-8c23a600-bd72-11eb-998c-1421b2308a8e.gif">
-
-<p><a href="https://img.shields.io/badge/PODA-MYRE-purple"><img aling="center"src="https://user-images.githubusercontent.com/79639422/119483588-c0976200-bd72-11eb-8ca2-f290e732fa35.gif"/></p>
+<p align="left"> <a href="https://github.com/annihilatorrrr"><img src="https://github-profile-trophy.vercel.app/?username=MrPurple902&theme=nightowl-bg=true&no-frame=true&column=4&" alt="annihilatorrrr" /></a> </p>
 
 ### KNOW SOMETHING ABOUT ME >>>>
 

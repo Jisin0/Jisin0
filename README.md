@@ -8,9 +8,6 @@
 
 ### KNOW SOMETHING ABOUT ME >>>>
 
-<p align="center"><a href="https://github.com/MrPurple902"><img title="Mr Purple902" src="https://user-images.githubusercontent.com/79639422/119483808-fccac280-bd72-11eb-805b-2ce82bb1289a.gif"></a>
-</p>
-
 |- I call myself [Mr Purple](https://github.com/MrPurple902) 😁
 
 |- I'm just a high school kid 😋
@@ -38,6 +35,7 @@
 </p>
 
 ### CHECK OUT MY WORK HERE>>>>
+![Metrics](https://metrics.lecoq.io/MrPurple902?template=classic&repositories.forks=true&languages=1&lines=1&isocalendar=1&traffic=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FCalifornia)
 <p align="center"><a href="https://github.com/MrPurple902"><img title="Mr Purple902" src="https://github-readme-stats.vercel.app/api?username=MrPurple902&show_icons=true&include_all_commits=true&theme=nightowl&cache_seconds=3200"></a>
 </p>
 

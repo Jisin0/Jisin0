@@ -1,9 +1,6 @@
 # Its me MrPurple guyzz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-<p align="center">
-   <ahref="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-markdown.svg" width ="250"></a>
-  </p>
+
   <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626852589749.png" size=495px />
 <p align="left"> <a href="https://github.com/MrPurple902"><img src="https://github-profile-trophy.vercel.app/?username=MrPurple902&theme=juicyfresh&no-frame=true&column=6&" alt="MrPurple902" /></a> </p>
 
@@ -11,7 +8,7 @@
 
 |- I call myself [Mr Purple](https://github.com/MrPurple902) 😁
 
-|- I'm just a high school kid 😋
+|- I'm just a Teen 😋
 
 |- Im interested in almost everything online 😉
 

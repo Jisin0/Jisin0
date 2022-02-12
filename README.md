@@ -58,7 +58,7 @@
 ### FIND ME ON SOCIAL MEDIA >>>>
 
 <p align="center">
-<a href="https://www.github.com/Jisin0"><img title="YouTube" src="https://img.shields.io/badge/Jisin-0?style=for-the-badge&logo=github"></a>
+<a href="https://www.github.com/Jisin0"><img title="YouTube" src="https://img.shields.io/badge/Jisin-0-purple?style=for-the-badge&logo=github"></a>
 <a href="https://www.youtube.com/channel/UC4HTsk_D_42aoVRfkifTCkA"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Jisin-red?style=for-the-badge&logo=Youtube"></a>
 <a href="https://chat.whatsapp.com/FsGXNXYu5nyHaW8BljPkRa"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-green?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://www.instagram.com/mr.purple902"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram"></a>

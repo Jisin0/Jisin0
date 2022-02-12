@@ -2,7 +2,7 @@
 
 
   <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626852589749.png" size=495px />
-<p align="center"> <a href="https://github.com/MrPurple902"><img src="https://github-profile-trophy.vercel.app/?username=MrPurple902&theme=juicyfresh&no-frame=true&column=6&" alt="MrPurple902" /></a> </p>
+<p align="center"> <a href="https://github.com/Jisin0"><img src="https://github-profile-trophy.vercel.app/?username=Jisin0&theme=juicyfresh&no-frame=true&column=6&" alt="Jisin0" /></a> </p>
 
 ### KNOW SOMETHING ABOUT ME >>>>
 

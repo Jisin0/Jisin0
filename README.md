@@ -1,4 +1,4 @@
-# Its me MrPurple guyzz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Its me Jisin guyzz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 
   <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626852589749.png" size=495px />
@@ -6,7 +6,7 @@
 
 ### KNOW SOMETHING ABOUT ME >>>>
 
-|- I call myself [Mr Purple](https://github.com/MrPurple902) 😁
+|- My Name is [Jisin](https://github.com/Jisin0) 😁
 
 |- I'm just a Teen 😋
 
@@ -20,8 +20,8 @@
 
 |- You can also chat with me on [Whatsapp](https://wa.me/917560979627) 🙃
   
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
-  
+
+
 ### LANGUAGES AND TOOLS >>>>
   
 <p align="center">

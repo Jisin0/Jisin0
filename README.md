@@ -1,6 +1,6 @@
 # Hey I'm Jisin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-<p>&nbsp;
-    <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626852589749.png" size=495px />
+<p align="center">&nbsp;
+    <img align="center" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626852589749.png" size=495px />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisin0&show_icons=true&theme=juicyfresh" alt="jisin0" /></p>
 
 
@@ -56,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisin0&show_icons=true&locale=en&layout=compact&show_icons=true&theme=chartreuse-dark" alt="jisin0" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisin0&show_icons=true&locale=en&layout=compact&show_icons=true&theme=chartreuse-dark" alt="jisin0" /></p>
 <br>
 
 ### FIND ME ON SOCIAL MEDIA >>>>

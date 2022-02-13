@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&lines=HEY+I'M+JISIN)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=35&lines=HEY+I'M+JISIN)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <p align="center">&nbsp;
     <img align="center" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626852589749.png" size=495px />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisin0&show_icons=true&theme=midnight-purple" alt="jisin0" /></p>

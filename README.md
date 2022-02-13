@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisin0&show_icons=true&theme=juicyfresh" alt="jisin0" /></p>
 
 
-<p align="center"> <a href="https://github.com/Jisin0"><img src="https://github-profile-trophy.vercel.app/?username=Jisin0&theme=juicyfresh&no-frame=true&column=6&" alt="Jisin0" /></a> </p>
+<p align="center"> <a href="https://github.com/Jisin0"><img src="https://github-profile-trophy.vercel.app/?username=Jisin0&theme=midnight-purple&no-frame=true&column=6&" alt="Jisin0" /></a> </p>
 
 ### KNOW SOMETHING ABOUT ME >>>>
 

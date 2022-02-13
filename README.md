@@ -1,6 +1,9 @@
 # Hey I'm Jisin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisin0&show_icons=true&theme=chartreuse-dark" alt="jisin0" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jisin0&label=Profile%20views&color=0e75b6&style=flat" alt="jisin0" /> </p>
+<p>&nbsp;
+    <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626852589749.png" size=495px />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisin0&show_icons=true&theme=juicyfresh" alt="jisin0" /></p>
+
+
 <p align="center"> <a href="https://github.com/Jisin0"><img src="https://github-profile-trophy.vercel.app/?username=Jisin0&theme=juicyfresh&no-frame=true&column=6&" alt="Jisin0" /></a> </p>
 
 ### KNOW SOMETHING ABOUT ME >>>>
@@ -53,9 +56,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisin0&show_icons=true&locale=en&layout=compact&show_icons=true&theme=chartreuse-dark" alt="jisin0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisin0&show_icons=true&locale=en&layout=compact&show_icons=true&theme=chartreuse-dark" alt="jisin0" /></p>
 <br>
-<br>
+
 ### FIND ME ON SOCIAL MEDIA >>>>
 
 <p align="center">
@@ -65,5 +68,4 @@
 <a href="https://www.instagram.com/mr.purple902"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram"></a>
 <a href="https://t.me/joinchat/lpAtnUTMvFswOGZl"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
 </p>
-<a>check my bot ==><a href="https://t.me/DoraSupportTeam">Dora Bot</a></a>
-<img src="https://metrics.lecoq.io/jisin0"/>
+

@@ -1,10 +1,10 @@
 # Hey I'm Jisin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <p align="center">&nbsp;
     <img align="center" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626852589749.png" size=495px />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisin0&show_icons=true&theme=juicyfresh" alt="jisin0" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisin0&show_icons=true&theme=midnight-purple" alt="jisin0" /></p>
 
 
-<p align="center"> <a href="https://github.com/Jisin0"><img src="https://github-profile-trophy.vercel.app/?username=Jisin0&theme=midnight-purple&no-frame=true&column=6&" alt="Jisin0" /></a> </p>
+<p align="center"> <a href="https://github.com/Jisin0"><img src="https://github-profile-trophy.vercel.app/?username=Jisin0&theme=juicyfresh&no-frame=true&column=6&" alt="Jisin0" /></a> </p>
 
 ### KNOW SOMETHING ABOUT ME >>>>
 

@@ -57,7 +57,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisin0&show_icons=true&locale=en&layout=compact&show_icons=true&theme=chartreuse-dark" alt="jisin0" /></p>
+
 <br>
 
 ### FIND ME ON SOCIAL MEDIA >>>>

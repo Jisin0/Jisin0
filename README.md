@@ -20,9 +20,6 @@
 
 |- Feel free to chat with me on [Telegram](https://t.me/Jisin_idk) 😜
 
-|- You can also chat with me on [Whatsapp](https://wa.me/917560979627) 🙃
-  
-
 
 ### LANGUAGES AND TOOLS >>>>
   

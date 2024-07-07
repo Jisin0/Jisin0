@@ -11,9 +11,11 @@
 - ![TG Icon](https://img.icons8.com/?size=40&id=63306&format=png&color=000000) You can always find me on [Telegram](https://t.me/Jisin_idk) 
 
 
-### LANGUAGES AND TOOLS >>>>
+### LANGUAGES & TOOLS >>>>
 
 ![Languages & Tools](https://skillicons.dev/icons?i=golang,rust,vscode,docker,git,github,linux,heroku,postgresql,redis,mongodb,java,html,py,cpp,graphql,js,vercel,flutter,ts,next,vim,tailwind,sublime,postman,bash,cloudflare,django,flask&perline=10)
 
-### Activity >>>>
+### ACTIVITY >>>>
+<!--START_SECTION:activity-->
+
 ![Activity](./github-metrics.svg)

@@ -18,5 +18,11 @@
 
 ### ACTIVITY >>>>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#7](https://github.com/Jisin0/Go-Filter-Bot/pull/7) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+2. 💪 Opened PR [#7](https://github.com/Jisin0/Go-Filter-Bot/pull/7) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+3. 🎉 Merged PR [#6](https://github.com/Jisin0/Go-Filter-Bot/pull/6) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+4. 💪 Opened PR [#6](https://github.com/Jisin0/Go-Filter-Bot/pull/6) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+5. 🎉 Merged PR [#4](https://github.com/Jisin0/filmigobot/pull/4) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
+<!--END_SECTION:activity-->
 
 ![Activity](./github-metrics.svg)

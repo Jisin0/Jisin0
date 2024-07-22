@@ -10,11 +10,11 @@
 
 ### ACTIVITY >>>>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Jisin0/filmigo/pull/5) in [Jisin0/filmigo](https://github.com/Jisin0/filmigo)
-2. 🎉 Merged PR [#5](https://github.com/Jisin0/filmigobot/pull/5) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
-3. 💪 Opened PR [#5](https://github.com/Jisin0/filmigobot/pull/5) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
-4. 🎉 Merged PR [#7](https://github.com/Jisin0/Go-Filter-Bot/pull/7) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
-5. 💪 Opened PR [#7](https://github.com/Jisin0/Go-Filter-Bot/pull/7) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+1. 💪 Opened PR [#183](https://github.com/PaulSonOfLars/gotgbot/pull/183) in [PaulSonOfLars/gotgbot](https://github.com/PaulSonOfLars/gotgbot)
+2. 🎉 Merged PR [#5](https://github.com/Jisin0/filmigo/pull/5) in [Jisin0/filmigo](https://github.com/Jisin0/filmigo)
+3. 🎉 Merged PR [#5](https://github.com/Jisin0/filmigobot/pull/5) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
+4. 💪 Opened PR [#5](https://github.com/Jisin0/filmigobot/pull/5) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
+5. 🎉 Merged PR [#7](https://github.com/Jisin0/Go-Filter-Bot/pull/7) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
 <!--END_SECTION:activity-->
 
 ![Activity](./github-metrics.svg)

@@ -6,7 +6,7 @@
 
 ### LANGUAGES & TOOLS >>>>
 
-![Languages & Tools](https://skillicons.dev/icons?i=golang,rust,vscode,docker,git,github,linux,heroku,postgresql,redis,mongodb,java,html,py,cpp,graphql,js,vercel,flutter,ts,next,vim,tailwind,sublime,postman,bash,cloudflare,django,flask&perline=10)
+![Languages & Tools](https://skillicons.dev/icons?i=golang,rust,vscode,docker,git,github,linux,heroku,postgresql,redis,mongodb,java,html,py,cpp,graphql,js,vercel,flutter,ts,next,vim,tailwind,sublime,postman,bash,cloudflare,django,react,flask&perline=10)
 
 ### ACTIVITY >>>>
 <!--START_SECTION:activity-->

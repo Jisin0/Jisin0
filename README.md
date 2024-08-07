@@ -10,11 +10,11 @@
 
 ### ACTIVITY >>>>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/PaulSonOfLars/gotgbot/pull/183#issuecomment-2242922660) in [PaulSonOfLars/gotgbot](https://github.com/PaulSonOfLars/gotgbot)
-2. 💪 Opened PR [#2](https://github.com/Abishnoi69/Force-Sub-Bot/pull/2) in [Abishnoi69/Force-Sub-Bot](https://github.com/Abishnoi69/Force-Sub-Bot)
-3. 💪 Opened PR [#183](https://github.com/PaulSonOfLars/gotgbot/pull/183) in [PaulSonOfLars/gotgbot](https://github.com/PaulSonOfLars/gotgbot)
-4. 🎉 Merged PR [#5](https://github.com/Jisin0/filmigo/pull/5) in [Jisin0/filmigo](https://github.com/Jisin0/filmigo)
-5. 🎉 Merged PR [#5](https://github.com/Jisin0/filmigobot/pull/5) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
+1. 💪 Opened PR [#1421](https://github.com/gotd/td/pull/1421) in [gotd/td](https://github.com/gotd/td)
+2. 🗣 Commented on [#183](https://github.com/PaulSonOfLars/gotgbot/pull/183#issuecomment-2242922660) in [PaulSonOfLars/gotgbot](https://github.com/PaulSonOfLars/gotgbot)
+3. 💪 Opened PR [#2](https://github.com/Abishnoi69/Force-Sub-Bot/pull/2) in [Abishnoi69/Force-Sub-Bot](https://github.com/Abishnoi69/Force-Sub-Bot)
+4. 💪 Opened PR [#183](https://github.com/PaulSonOfLars/gotgbot/pull/183) in [PaulSonOfLars/gotgbot](https://github.com/PaulSonOfLars/gotgbot)
+5. 🎉 Merged PR [#5](https://github.com/Jisin0/filmigo/pull/5) in [Jisin0/filmigo](https://github.com/Jisin0/filmigo)
 <!--END_SECTION:activity-->
 
 ![Activity](./github-metrics.svg)

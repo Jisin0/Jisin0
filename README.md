@@ -10,11 +10,11 @@
 
 ### ACTIVITY >>>>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Jisin0/filmigobot/pull/7) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
-2. 🎉 Merged PR [#6](https://github.com/Jisin0/filmigo/pull/6) in [Jisin0/filmigo](https://github.com/Jisin0/filmigo)
-3. 💪 Opened PR [#1421](https://github.com/gotd/td/pull/1421) in [gotd/td](https://github.com/gotd/td)
-4. 🗣 Commented on [#183](https://github.com/PaulSonOfLars/gotgbot/pull/183#issuecomment-2242922660) in [PaulSonOfLars/gotgbot](https://github.com/PaulSonOfLars/gotgbot)
-5. 💪 Opened PR [#2](https://github.com/Abishnoi69/Force-Sub-Bot/pull/2) in [Abishnoi69/Force-Sub-Bot](https://github.com/Abishnoi69/Force-Sub-Bot)
+1. 🎉 Merged PR [#9](https://github.com/Jisin0/Go-Filter-Bot/pull/9) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+2. 🎉 Merged PR [#8](https://github.com/Jisin0/Go-Filter-Bot/pull/8) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+3. 🗣 Commented on [#11](https://github.com/Jisin0/Go-Filter-Bot/pull/11#issuecomment-2343477817) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+4. 🎉 Merged PR [#7](https://github.com/Jisin0/filmigobot/pull/7) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
+5. 🎉 Merged PR [#6](https://github.com/Jisin0/filmigo/pull/6) in [Jisin0/filmigo](https://github.com/Jisin0/filmigo)
 <!--END_SECTION:activity-->
 
 ![Activity](./github-metrics.svg)

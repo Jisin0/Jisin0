@@ -10,11 +10,11 @@
 
 ### ACTIVITY >>>>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Jisin0/Go-Filter-Bot/pull/9) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
-2. 🎉 Merged PR [#8](https://github.com/Jisin0/Go-Filter-Bot/pull/8) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
-3. 🗣 Commented on [#11](https://github.com/Jisin0/Go-Filter-Bot/pull/11#issuecomment-2343477817) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
-4. 🎉 Merged PR [#7](https://github.com/Jisin0/filmigobot/pull/7) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
-5. 🎉 Merged PR [#6](https://github.com/Jisin0/filmigo/pull/6) in [Jisin0/filmigo](https://github.com/Jisin0/filmigo)
+1. ❌ Closed PR [#11](https://github.com/Jisin0/Go-Filter-Bot/pull/11) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+2. 🎉 Merged PR [#9](https://github.com/Jisin0/Go-Filter-Bot/pull/9) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+3. 🎉 Merged PR [#8](https://github.com/Jisin0/Go-Filter-Bot/pull/8) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+4. 🗣 Commented on [#11](https://github.com/Jisin0/Go-Filter-Bot/pull/11#issuecomment-2343477817) in [Jisin0/Go-Filter-Bot](https://github.com/Jisin0/Go-Filter-Bot)
+5. 🎉 Merged PR [#7](https://github.com/Jisin0/filmigobot/pull/7) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
 <!--END_SECTION:activity-->
 
 ![Activity](./github-metrics.svg)

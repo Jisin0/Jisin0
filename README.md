@@ -10,10 +10,10 @@
 
 ### ACTIVITY >>>>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Jisin0/autofilterbot/pull/1) in [Jisin0/autofilterbot](https://github.com/Jisin0/autofilterbot)
-2. 💪 Opened PR [#1](https://github.com/Jisin0/autofilterbot/pull/1) in [Jisin0/autofilterbot](https://github.com/Jisin0/autofilterbot)
-3. 💪 Opened PR [#14](https://github.com/Jisin0/filmigobot/pull/14) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
-4. 🎉 Merged PR [#9](https://github.com/Jisin0/filmigobot/pull/9) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
+1. 🎉 Merged PR [#2](https://github.com/Jisin0/autofilterbot/pull/2) in [Jisin0/autofilterbot](https://github.com/Jisin0/autofilterbot)
+2. 💪 Opened PR [#2](https://github.com/Jisin0/autofilterbot/pull/2) in [Jisin0/autofilterbot](https://github.com/Jisin0/autofilterbot)
+3. 🎉 Merged PR [#1](https://github.com/Jisin0/autofilterbot/pull/1) in [Jisin0/autofilterbot](https://github.com/Jisin0/autofilterbot)
+4. 💪 Opened PR [#1](https://github.com/Jisin0/autofilterbot/pull/1) in [Jisin0/autofilterbot](https://github.com/Jisin0/autofilterbot)
 5. 🎉 Merged PR [#8](https://github.com/Jisin0/filmigobot/pull/8) in [Jisin0/filmigobot](https://github.com/Jisin0/filmigobot)
 <!--END_SECTION:activity-->
 

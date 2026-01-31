@@ -1,6 +1,6 @@
 <p align="center"> <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Anton%20SC&color=%238A0303&size=20&duration=4000&vCenter=true&width=350&height=40&lines=%F0%9F%91%8B+Hey+I%27m+Jisin;Wanna+Learn+More+About+me%3f" alt="Hey I'm Jisin" /> </p>&nbsp;&nbsp;
 <p align="center"> <img align="center" src="./carbon.png" alt="Info Carbon" style="width: 320px; border-radius: 10%;"/> </p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jisin0&show_icons=true&theme=shadow_red" alt="jisin0" /> </p>
+<p align="center"> <img align="center" src="https://github-readme-stats-flax-one-89.vercel.app/api?username=jisin0&show_icons=true&theme=shadow_red" alt="jisin0" /> </p>
 <p align="center"> <a href="https://github.com/Jisin0"><img src="https://github-readme-stats-iikx.vercel.app/?username=Jisin0&theme=dark_lover&no-frame=true&column=6&" alt="Jisin0" /></a> </p>
 
 
